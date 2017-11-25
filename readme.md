@@ -1,5 +1,10 @@
 ## Curso Git desde cero
 
+### Zonas de Git
+1. Directorio de trabajo
+2. Area de preparación
+3. Rirectorio Git
+
 ## Flujo de trabajo 
 1. Modificas una serie de archivos en tu directorio de trabajo.
 2. Preparas los archivos, añadiendolos a tu área de preparación.
