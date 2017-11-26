@@ -19,3 +19,5 @@ git config --global user.email mariano.delahoz@gmail.com
 git config --global core.editor subl
 git config --list
 ```
+
+Esta linea fue creada en la rama master.
